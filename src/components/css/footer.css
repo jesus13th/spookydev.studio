@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.footer p {
+    font-size: large;
+    font-weight: 600;
+    color: white;
+}

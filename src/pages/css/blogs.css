@@ -1,0 +1,27 @@
+.blogs-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.blogs-page p {
+    margin: 20px 20%;
+}
+.blogs-page .blogs {
+    display: block;
+    justify-content: center;
+}
+.blogs-page .blogs .add-new {
+    margin: 20px auto;
+    width: 82%;
+    padding: 30px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(199, 199, 199);
+}
+.blogs-page .blogs .add-new * {
+    margin: 20px;
+}
+.blogs-page .blogs .add-new img {
+    height: 64px;
+}

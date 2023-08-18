@@ -1,0 +1,24 @@
+.admin {
+    margin: 10px;
+}
+.admin-form {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    padding: 20px;
+    text-align: center;
+    border: solid 1px black;
+    border-radius: 15px;
+    
+}
+.admin-form > input {
+    margin: 5px;
+    padding: 10px;
+}
+.admin-form > input[type="button"]{
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-weight: 600;
+}

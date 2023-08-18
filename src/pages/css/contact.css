@@ -1,0 +1,58 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px auto;
+    max-width: 50%;
+}
+.contact h1 {
+    margin: auto;
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.contact .contactUs form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px;
+}
+.contact .contactUs form > * {
+    margin: 5px;
+    padding: 5px;
+}
+.contact .contactUs form input[type="text"] {
+    height: 40px;
+    font-size: large;
+}
+.contact .contactUs form textarea {
+    height: 200px;
+    resize: none;
+    font-size: large;
+}
+.contact .contactUs form input[type="button"]{
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: large;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact .social-media {
+    width: 100%;
+    text-align: center;
+}
+.contact .social-media .socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact .social-media .socials img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}

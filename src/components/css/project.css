@@ -1,0 +1,35 @@
+.project {
+    border: solid black 1px;
+    border-radius: 15px;
+    width: 500px;
+    margin: 20px;
+}
+.project a {
+    text-decoration: none;
+    color: black;
+}
+.project-content{
+    display: flex;
+    flex-direction: column;
+}
+.project-content h2 {
+    font-size: xx-large;
+    margin: 20px 20%;
+    text-align: center;
+}
+.project-content img {
+    width: 450px;
+    margin: auto;
+}
+.project-content p {
+    margin: 20px;
+    text-align: center;
+}
+.project-content button {
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    font-size: large;
+    font-weight: 500;
+}

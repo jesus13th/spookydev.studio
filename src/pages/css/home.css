@@ -1,0 +1,21 @@
+.home .intruduction {
+    margin: 20px 20%;
+    text-align: center;
+}
+.home h1{
+    margin: 20px 20%;
+    text-align: center;
+}
+.home .projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.home .additional {
+    margin: 20px 9%;
+    text-align: start;
+}
+.home a {
+    text-decoration: none;
+    color: black;
+}
