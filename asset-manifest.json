@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spookydev.studio/static/css/main.fac385ca.css",
+    "main.js": "/spookydev.studio/static/js/main.ef561e39.js",
+    "static/js/787.b5baf485.chunk.js": "/spookydev.studio/static/js/787.b5baf485.chunk.js",
+    "index.html": "/spookydev.studio/index.html",
+    "main.fac385ca.css.map": "/spookydev.studio/static/css/main.fac385ca.css.map",
+    "main.ef561e39.js.map": "/spookydev.studio/static/js/main.ef561e39.js.map",
+    "787.b5baf485.chunk.js.map": "/spookydev.studio/static/js/787.b5baf485.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac385ca.css",
+    "static/js/main.ef561e39.js"
+  ]
+}
