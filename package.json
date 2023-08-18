@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jesus13th.github.io/spookydev.studio",
+  "homepage": "https://spookydevstudio.site",
   "name": "spooky-dev-studio",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build && echo 'spookydevstudio.site' > ./build/CNAME",
+    "predeploy":"npm run build && echo spookydevstudio.site > ./build/CNAME",
     "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
